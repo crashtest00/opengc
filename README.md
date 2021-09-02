@@ -22,3 +22,6 @@ http://www.car-videos.net/tools/speedrpm.asp Might be worth moving this to a spr
 
 DCCD Controllers:
 https://forums.nasioc.com/forums/showthread.php?t=1489974
+
+Dash removal tutorial from the fine folks at iWire:
+https://www.youtube.com/watch?v=1PH7o4YnzmM

@@ -15,6 +15,7 @@ Target transmission code: TY754VB1EA
 Transmission info charts:
 http://www.catherineandken.co.uk/sti/trans.html
 https://www.surrealmirage.com/subaru/trans_spec.html
+http://www.gearhack.com/myink/ViewPage.php?file=docs/Subaru%20Transmission%20Chart
 
 Speed/RPM Calculator:
 http://www.car-videos.net/tools/speedrpm.asp Might be worth moving this to a spreadsheet. Python script would be even nerdier...

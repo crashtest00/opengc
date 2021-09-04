@@ -18,6 +18,7 @@ Based on Synapsis, Unabomber, and general knowledge of GC swaps, the following s
 
 ```
 IF a VA (2015) WRX crossmember fits a GV (2010) STI
-AND a (GV) 2013 STI crossmember can be fit to a 2004 (GD) WRX wagon, 
-THEN the VA crossmember should fit a GC with some modification.
+AND a (GV) 2013 STI crossmember can be fit to a 2004 (GD) WRX wagon
+AND a GD crossmember can be fit to a GC
+THEN the VA crossmember should fit a GC with minimal modification.
 ```

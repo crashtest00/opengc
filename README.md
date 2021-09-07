@@ -17,6 +17,9 @@ http://www.catherineandken.co.uk/sti/trans.html
 https://www.surrealmirage.com/subaru/trans_spec.html
 http://www.gearhack.com/myink/ViewPage.php?file=docs/Subaru%20Transmission%20Chart
 
+How to decipher transmission codes:
+https://thefactoryfiveforum.com/archive/index.php/t-9909.html
+
 Speed/RPM Calculator:
 http://www.car-videos.net/tools/speedrpm.asp Might be worth moving this to a spreadsheet. Python script would be even nerdier...
 

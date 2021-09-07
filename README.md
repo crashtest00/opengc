@@ -25,3 +25,7 @@ https://forums.nasioc.com/forums/showthread.php?t=1489974
 
 Dash removal tutorial from the fine folks at iWire:
 https://www.youtube.com/watch?v=1PH7o4YnzmM
+
+Depinning Subaru connectors:
+https://www.youtube.com/watch?v=R2ekVCmRMc8
+https://www.iwireservices.com/product-page/depinning-tool-set

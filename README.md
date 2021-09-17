@@ -1,6 +1,8 @@
 # opengc
 Modernizing a 2000 Subaru Impreza 2.5 RS
 
+[Impreza models & WRX/STI Versions](https://www.possumbournemotorsport.com/wrxversion)
+
 Handy resource to get chassis codes:
 https://www.clubcrosstrek.com/threads/subaru-impreza-and-wrx-wrx-sti-chassis-codes-designations.3004/
 This helps alot with searching for parts interchange.
@@ -32,3 +34,7 @@ https://www.youtube.com/watch?v=1PH7o4YnzmM
 Depinning Subaru connectors:
 https://www.youtube.com/watch?v=R2ekVCmRMc8
 https://www.iwireservices.com/product-page/depinning-tool-set
+
+Some neat links on rebuilding Subaru engines:
+[Speed Academy EJ207](https://www.youtube.com/playlist?list=PLp8FsoRYWYK5y6r7NZlMFab4tsVEWcAjS)
+They use [Permatex Right Stuff Grey](https://www.permatex.com/product-category/gasketing/the-right-stuff-gasket-makers/?locale=en)

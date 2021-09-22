@@ -39,3 +39,7 @@ https://www.iwireservices.com/product-page/depinning-tool-set
 Some neat links on rebuilding Subaru engines:
 [Speed Academy EJ207](https://www.youtube.com/playlist?list=PLp8FsoRYWYK5y6r7NZlMFab4tsVEWcAjS)
 They use [Permatex Right Stuff Grey](https://www.permatex.com/product-category/gasketing/the-right-stuff-gasket-makers/?locale=en)
+
+Original Listing:
+Jdm wrx front and rear subframes (wider) Hydra nemesis 2.7 standalone EMS,  ati triple center cluster, full catless 2.5" cobb knockoff exhaust, twinscroll downpipe.
+04 sti struts, jdm sti type RA 4.44 5mt w dccd. Suretrac Lsd 4.44 rear diff, new exedy stage 1 clutch. 02 wrx intake manifold, tgv deletes, i.d 1000 injectors, frozenboost air-water intercooler kit, ej20x twinscroll headers+ td04hla twinscroll turbo, ver5 wheels, 07 wrx 4 pot front brakes, new front axles and seals

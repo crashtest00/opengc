@@ -45,3 +45,7 @@ Jdm wrx front and rear subframes (wider) Hydra nemesis 2.7 standalone EMS,  ati 
 04 sti struts, jdm sti type RA 4.44 5mt w dccd. Suretrac Lsd 4.44 rear diff, new exedy stage 1 clutch. 02 wrx intake manifold, tgv deletes, i.d 1000 injectors, frozenboost air-water intercooler kit, ej20x twinscroll headers+ td04hla twinscroll turbo, ver5 wheels, 07 wrx 4 pot front brakes, new front axles and seals
 
 [22B Designer](http://www.speedhunters.com/2021/09/akira-teshima-and-his-22b/?fbclid=IwAR3SMOZl-irAgRgL07SuRlLURyg-ALjIlvVBq6cyEDgFEdsduVKZms6pBEA)
+[Info on EJ207](https://forums.nasioc.com/forums/showthread.php?t=2385141)
+Need to save Synapsis's "The Process" pdf someplace safe.
+[Engine Management](https://forums.nasioc.com/forums/showthread.php?t=795608)
+[Element Tuning (Hydra EMS)](https://elementtuning.com/store/#!/~/)
